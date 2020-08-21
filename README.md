@@ -1,4 +1,5 @@
-# ItemBasedEconomy 2.0 1.16 Eclipse Project File
+# ItemBasedEconomy 2.0 1.16 
+It contains the eclipse project file and the jar file
 you have to import spigot 1.16.1 and Vault yourself in the project.<br/>
 I made it compatible with Vault (yay!)
 ## Usage
