@@ -1,0 +1,13 @@
+money:
+# Look at the spigot doc on Material page to know the names to use
+  items:
+    onedollard: "SNOWBALL"
+    twodollard: "REDSTONE"
+    fivedollard: "LAPIS_LAZULI"
+    tendollard: "IRON_BARS"
+    twentydollard: "GOLD_INGOT"
+    fiftydollard: "EMERALD"
+# Max money for virtual account
+  virtual:
+    max: 1000
+    default: 2

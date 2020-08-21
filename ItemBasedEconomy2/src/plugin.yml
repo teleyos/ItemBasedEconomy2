@@ -1,0 +1,17 @@
+name: ItemBasedEconomy
+description: plugin to encourage physical storage
+version: 2.0
+main: fr.teleyos.itembasedeconomy.ItemBasedEconomy
+api-version: 1.16
+depend: [Vault]
+load: STARTUP
+commands: 
+  money:
+    description: gives you the amount of money you got
+  deposit:
+    description: displays the deposit gui
+  withdraw:
+    description: displays the withdraw gui
+  putshop:
+    description: put a shop where you look at
+    permission: putshop.use
